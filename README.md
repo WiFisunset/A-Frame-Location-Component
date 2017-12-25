@@ -19,5 +19,3 @@ LOCATION CONCEPT 0.2
 
 	event-set__3="_event: box_location(-10 1 1); _target: #boxLocation; visible: true; color: red"
 
-
-*/
