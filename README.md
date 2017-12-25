@@ -19,3 +19,5 @@ LOCATION CONCEPT 0.2
 
 	event-set__3="_event: box_location(-10 1 1); _target: #boxLocation; visible: true; color: red"
 
+
+My knowledge of Javascript is at an intermidiate level, so anyone wants to jump in to help complete this component then by all means jump right on in :D!
