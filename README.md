@@ -18,4 +18,6 @@ LOCATION CONCEPT 0.2
 
 	event-set__3="_event: location(-10 1 1); _target: #boxColor; visible: true; color: red"
 
-My knowledge of Javascript is at an intermediate level, so if anyone wants to jump in to help complete this component then by all means jump right on in :D!
+My knowledge of Javascript is at an intermediate level to be honest, so I'm still on a learning curve.
+
+If anyone wants to jump in to help complete this component then by all means jump right on in :D!
