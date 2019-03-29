@@ -1,4 +1,4 @@
-# A-Frame-Location-Component
+# A-Frame-Location-Component-Concept
 A-Frame: Location Component that takes in the Cameras/Users Location
 
 LOCATION CONCEPT 0.1
